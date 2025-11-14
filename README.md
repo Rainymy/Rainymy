@@ -25,8 +25,8 @@ I'm interested in technology and love trying new things. I enjoy spinning up vir
 <br clear="left"/>
 
 <p align="center">
-    <img align="center" height="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=rainymy" />
-    <img align="center" height="50%" src="https://github-readme-stats.vercel.app/api?username=rainymy&show_icons=true&locale=en" />
+    <img align="center" width="50.984%" src="https://github-readme-streak-stats.herokuapp.com/?user=rainymy" />
+    <img align="center" width="48.1%" src="https://github-readme-stats.vercel.app/api?username=rainymy&show_icons=true&locale=en" />
 </p>
 <br clear="left"/>
 <br clear="left"/>
